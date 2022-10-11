@@ -1,5 +1,5 @@
 # dv360production
-
+- Refer to the production function of dv360 materials. If there is infringement, delete it immediately
 ## Project setup
 ```
 pnpm install
